@@ -71,8 +71,8 @@ The JavaScript code is embedded within the HTML file. It defines the function to
  <p>Contributions are welcome! If you have suggestions for improvements or want to report a bug, please open an issue or submit a pull request.</p>
 <br>
  <p>Feel free to modify this README to suit your project's specific details and needs.</p>
+ https://www.veed.io/view/5f69d1b7-37d1-41d3-ab87-9f440496c693?panel=share
 
-https://github.com/pushpakumari98/HTML-CSS-JS-Project/assets/153999245/528d24dd-d7fc-42d0-b429-35e47f709c77
 
 
 
