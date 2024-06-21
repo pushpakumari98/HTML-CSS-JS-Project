@@ -35,10 +35,10 @@ You will see a bulb image and two buttons labeled "Light ON" and "Light OFF".
 
 Click the "Light ON" button to turn the bulb on and the "Light OFF" button to turn the bulb off.</p>
 <br>
-
-<b>Code Overview</b/>
+<b>Code Overview</b>
+<br>
 <b>HTML</b>
-<p>The HTML file includes the structure of the webpage, the image element for the bulb, and the buttons to control the bulb state.</p>
+The HTML file includes the structure of the webpage, the image element for the bulb, and the buttons to control the bulb state.
 <br>
 <b>html</b>
 <br>
@@ -46,20 +46,6 @@ Click the "Light ON" button to turn the bulb on and the "Light OFF" button to tu
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Bulb ON/OFF </title>
-    <script type="text/javascript">
-        function light(show){
-            var pic;
-            if(show==0){
-                pic="bulb-off.png";
-            }
-            else{
-                pic="bulb-on.png";
-            }
-            document.getElementById('bulb').src=pic;
-        }
-    </script>
-</head> 
 <body>
    <h1>BULB On/Off</h1>
    <p>Clicking on Light ON button turn On the bulb and vice-versa</p>
@@ -71,6 +57,7 @@ Click the "Light ON" button to turn the bulb on and the "Light OFF" button to tu
    </p>
    </center>
 </body>
+</head> 
 </html>
 </p>
 
