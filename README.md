@@ -2,6 +2,7 @@
 
 
 <b>Introduction</b>
+<br>
 The Bulb ON/OFF project is a straightforward example of how to manipulate the DOM using JavaScript. It helps understand event handling and updating the UI based on user interactions. The bulb starts in the ON state and changes to OFF when clicked, and vice versa.
 
 <br>
