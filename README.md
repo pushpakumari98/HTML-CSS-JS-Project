@@ -16,10 +16,9 @@ Basic knowledge of HTML and JavaScript</p>
 
 <b>📌Installation</b>
 <br>
-<p>1)Clone the repository or download the zip file.</p>
+1)Clone the repository or download the zip file using bash command
 <br>
-<p>🔗bash</p> 
-<link rel="git clone https://github.com/yourusername/bulb-on-off.git">
+🔗<link href="git clone https://github.com/yourusername/bulb-on-off.git">
 <br>
 2)Navigate to the project directory.
 <br>
