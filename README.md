@@ -1,25 +1,17 @@
-This project demonstrates a simple ON/OFF functionality for a bulb using JavaScript. When the button is clicked, it toggles the bulb image between ON and OFF states, providing visual feedback to the user. This is a basic example suitable for beginners learning JavaScript and DOM manipulation.
+<p>This project demonstrates a simple ON/OFF functionality for a bulb using JavaScript. When the button is clicked, it toggles the bulb image between ON and OFF states.</p>
 
-Table of Contents
-Introduction
-Features
-Prerequisites
+<label>Prerequisites</label>
 Installation
 Usage
 Code Overview
 HTML
 JavaScript
 Contributing
-License
-Introduction
+
+<b>Introduction</b>
 The Bulb ON/OFF project is a straightforward example of how to manipulate the DOM using JavaScript. It helps understand event handling and updating the UI based on user interactions. The bulb starts in the ON state and changes to OFF when clicked, and vice versa.
 
-Features
-Toggle bulb state between ON and OFF
-Visual feedback indicating the current state of the bulb
-Simple and clean design
-Easy to understand and extend
-Prerequisites
+👇Prerequisites
 To run this project, you will need:
 
 A web browser (Chrome, Firefox, Safari, etc.)
