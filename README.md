@@ -67,6 +67,7 @@ The HTML file includes the structure of the webpage, the image element for the b
 The JavaScript code is embedded within the HTML file. It defines the function to change the bulb image source based on the button clicked.
 <br>
 <b>Contributing</b>
+<br>
  <p>Contributions are welcome! If you have suggestions for improvements or want to report a bug, please open an issue or submit a pull request.</p>
 <br>
  <p>Feel free to modify this README to suit your project's specific details and needs.</p>
