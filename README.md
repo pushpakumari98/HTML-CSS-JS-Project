@@ -18,7 +18,7 @@ Basic knowledge of HTML and JavaScript</p>
 <br>
 1)Clone the repository or download the zip file using bash command
 <br>
-🔗<p>"git clone https://github.com/yourusername/bulb-on-off.git"</p>
+🔗<p>git clone https://github.com/yourusername/bulb-on-off.git</p>
 <br>
 2)Navigate to the project directory.
 <br>
