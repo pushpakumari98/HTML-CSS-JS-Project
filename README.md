@@ -64,19 +64,6 @@ The HTML file includes the structure of the webpage, the image element for the b
 <br>
 <b>JavaScript</b>
 The JavaScript code is embedded within the HTML file. It defines the function to change the bulb image source based on the button clicked.
-
-javascript
-
-function light(show){
-    var pic;
-    if(show==0){
-        pic="bulb-off.png";
-    }
-    else{
-        pic="bulb-on.png";
-    }
-    document.getElementById('bulb').src=pic;
-}
 <br>
 <b>Contributing</b>
  <p>Contributions are welcome! If you have suggestions for improvements or want to report a bug, please open an issue or submit a pull request.</p>
